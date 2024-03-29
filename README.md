@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms With Rohit Negi**
 
-- 👨‍💻 All of my projects are available at [https://akashbhalshankar.github.io/portfolio/](https://akashbhalshankar.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://swapnasunkari.github.io/portfolio/](https://swapnasunkari.github.io/portfolio/)
 
 - 📫 How to reach me **swapnasunkari24@gmail.com**
 
